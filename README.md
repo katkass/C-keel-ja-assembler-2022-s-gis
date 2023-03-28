@@ -1,2 +1,2 @@
-# C-keel-ja-assembler-2022-s-gis
-Brainfuck interpretaator.
+# brainfuck-interpreter
+C and x86 Assembly 2022
